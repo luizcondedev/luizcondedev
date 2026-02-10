@@ -7,7 +7,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="www.linkedin.com/in/luiz-conde-dev" target="_blank">
+  <a href="www.linkedin.com/in/luiz-conde-dev/?skipRedirect=true" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="condeluiz" target="_blank">
@@ -65,6 +65,18 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=luizcondedev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/luizcondedev/luizcondedev/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/luizsykes001">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=luizsykes001&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
